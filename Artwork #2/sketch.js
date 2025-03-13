@@ -52,7 +52,7 @@ function setup() {
     endXLine = width;
     endYLine = floor(random(height));
 
-    timeSwitch = random(10,20)
+    timeSwitch = random(10,13)
 
     startXRect1 = width * random();
     startYRect1 = height * random();
